@@ -97,5 +97,3 @@ cd Library_management_system
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT
-- 
-
