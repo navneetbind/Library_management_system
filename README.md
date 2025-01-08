@@ -74,7 +74,7 @@ cd Library_management_system
    ```
 3. Start the frontend development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ### Accessing the Application
