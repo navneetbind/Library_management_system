@@ -78,7 +78,7 @@ cd Library_management_system
    ```
 
 ### Accessing the Application
-- Frontend: `http://localhost:3000`
+- Frontend: `http://localhost:5173`
 - Backend: `http://localhost:5000`
 
 ## Usage
